@@ -1,0 +1,6 @@
+{
+  "name": "My RAS",
+  "description": "A Multi-Category Recommendation and Advice System (RAS) featuring interactive AI suggestions and copyable Java Backend Source Code blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
